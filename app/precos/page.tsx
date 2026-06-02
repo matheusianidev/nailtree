@@ -5,8 +5,8 @@ import { Button } from "@/components/ui/button";
 export default function PrecosPage() {
   const precos = [
     { servico: "Alongamento em acrílico c/ gel", valor: "R$ 180" },
-    { servico: "Esmaltação em gel", valor: "R$ 70" },
-    { servico: "Blindagem em acrílico", valor: "R$ 120" },
+    { servico: "Esmaltação em gel", valor: "R$ 85" },
+    { servico: "Blindagem em acrílico", valor: "R$ 140" },
     { servico: "Remoção de alogamento", valor: "R$ 50" },
   ];
 
@@ -14,7 +14,7 @@ export default function PrecosPage() {
     { job: "Manutenção 15 dias", valor: "R$ 110" },
     { job: "Manutenção 20 dias", valor: "R$ 120" },
     { job: "Manutenção 30 dias", valor: "R$ 140" },
-    { job: "Manutenção blindagem", valor: "R$ 100" },
+    { job: "Manutenção blindagem", valor: "R$ 120" },
     { job: "Reposição de unha quebrada", valor: "R$ 10" },
   ];
 
